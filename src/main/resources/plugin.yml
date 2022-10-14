@@ -1,0 +1,5 @@
+name: Microsoft-Auth-Bridge
+version: '${project.version}'
+main: me.mic0.microsoftauthbridge.MicrosoftAuthBridge
+api-version: 1.19
+authors: [ mic0 ]
