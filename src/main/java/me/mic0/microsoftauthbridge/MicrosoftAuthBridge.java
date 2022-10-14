@@ -62,7 +62,7 @@ public final class MicrosoftAuthBridge extends JavaPlugin implements Listener {
             return;
         }
 
-        Document document = collection.find(new Document("username", new Document("$regex", playerName + ".*").append("$options", "i"))).first();
+        Document document = collection.find(new Document("username", playerName)).first();
 
         if (document == null) {
             event.disallow(AsyncPlayerPreLoginEvent.Result.KICK_WHITELIST, config.getString("kickMessage"));
