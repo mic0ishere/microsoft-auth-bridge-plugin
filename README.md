@@ -2,7 +2,7 @@
 
 ## What is this?
 
-For detailed description of this project head over to web repository for this project: [github.com/mic0ishere/microsoft-auth-bridge-web](https://github.com/mic0ishere/microsoft-auth-bridge-web)
+For detailed description of this project head over to web repository for this project: [mic0ishere/microsoft-auth-bridge-web](https://github.com/mic0ishere/microsoft-auth-bridge-web)
 
 This repository contains the plugin part of the project. It is responsible for letting people into the server.
 
