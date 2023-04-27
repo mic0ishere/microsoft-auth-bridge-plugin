@@ -1,4 +1,4 @@
-# Microsoft Teams - Minecraft Authentication Bridge (plugin part)
+# Microsoft OAuth - Minecraft Authentication Bridge (plugin part)
 
 ## What is this?
 
